@@ -1,0 +1,14 @@
+{
+  "name": "demo-lib",
+  "version": "1.0.1",
+  "description": "A simple testing counter library",
+  "author": "Jinal Shah",
+  "repository": {
+    "type": "git",
+    "url":""
+  },
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  }
+}
